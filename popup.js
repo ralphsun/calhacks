@@ -14,16 +14,16 @@ function click() {
 		"One child, one teacher, one book, one pen can change the world. —Malala Yousafzai",
 		"Don't go through life, grow through life. —Eric Butterworth",
 		"Happiness can be found, even in the darkest of times, if one only remembers to turn on the light. —J.K. Rowling",
-		"It's always too early to quit",
-		"Be the person you needed when you were younger",
-		"Do it before you're ready",
-		"To live a creative life, we must lose our fear of being wrong",
-		"Learn to be comfortable with discomfort--it is how you grow",
-		"Family is not only inherited but can be discovered as well",
+		"It's always too early to quit.",
+		"Be the person you needed when you were younger.",
+		"Do it before you're ready.",
+		"To live a creative life, we must lose our fear of being wrong.",
+		"Learn to be comfortable with discomfort--it is how you grow.",
+		"Family is not only inherited but can be discovered as well.",
 		"Sharing emotion does not make us weak; it makes us more powerful than ever. —Jordan Henson",
 		"We need to do a better job of putting ourselves higher on our own to-do list. —Michelle Obama",
 		"Worry is a misuse of your imagination.",
-		"The secret of getting ahead is getting started. -Mark Twain"
+		"The secret of getting ahead is getting started. —Mark Twain"
 	];
 
 	var rand = msg[Math.floor(Math.random() * msg.length)];
