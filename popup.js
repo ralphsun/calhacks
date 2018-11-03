@@ -11,6 +11,7 @@ function click() {
 		"Never, never, never give up. —Winston Churchill",
 		"Things do not happen.  Things are made to happen. —John F. Kennedy",
 		"It's always too early to quit",
+		"Do it before you're ready",
 		"Worry is a misuse of your imagination."
 	];
 
