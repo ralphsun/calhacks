@@ -15,6 +15,7 @@ function click() {
 		"Do it before you're ready",
 		"To live a creative life, we must lose our fear of being wrong",
 		"Learn to be comfortable with discomfort--it is how you grow",
+		"Family is not only inherited but can be discovered as well",
 		"Worry is a misuse of your imagination."
 	];
 
