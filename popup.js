@@ -12,6 +12,7 @@ function click() {
 		"Things do not happen.  Things are made to happen. —John F. Kennedy",
 		"Nothing is impossible, the word itself says I'm possible! —Audrey Hepburn",
 		"One child, one teacher, one book, one pen can change the world. —Malala Yousafzai",
+		"Don't go through life, grow through life. —Eric Butterworth",
 		"It's always too early to quit",
 		"Be the person you needed when you were younger",
 		"Do it before you're ready",
