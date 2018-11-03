@@ -13,6 +13,7 @@ function click() {
 		"Nothing is impossible, the word itself says I'm possible! —Audrey Hepburn",
 		"One child, one teacher, one book, one pen can change the world. —Malala Yousafzai",
 		"Don't go through life, grow through life. —Eric Butterworth",
+		"Happiness can be found, even in the darkest of times, if one only remembers to turn on the light. —J.K. Rowling",
 		"It's always too early to quit",
 		"Be the person you needed when you were younger",
 		"Do it before you're ready",
