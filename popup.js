@@ -13,6 +13,7 @@ function click() {
 		"It's always too early to quit",
 		"Be the person you needed when you were younger",
 		"Do it before you're ready",
+		"To live a creative life, we must lose our fear of being wrong",
 		"Worry is a misuse of your imagination."
 	];
 
