@@ -17,6 +17,7 @@ function click() {
 		"Learn to be comfortable with discomfort--it is how you grow",
 		"Family is not only inherited but can be discovered as well",
 		"Sharing emotion does not make us weak; it makes us more powerful than ever. —Jordan Henson",
+		"We need to do a better job of putting ourselves higher on our own to-do list. —Michelle Obama",
 		"Worry is a misuse of your imagination."
 	];
 
