@@ -14,6 +14,7 @@ function click() {
 		"Be the person you needed when you were younger",
 		"Do it before you're ready",
 		"To live a creative life, we must lose our fear of being wrong",
+		"Learn to be comfortable with discomfort--it is how you grow",
 		"Worry is a misuse of your imagination."
 	];
 
