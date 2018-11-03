@@ -16,6 +16,7 @@ function click() {
 		"To live a creative life, we must lose our fear of being wrong",
 		"Learn to be comfortable with discomfort--it is how you grow",
 		"Family is not only inherited but can be discovered as well",
+		"Sharing emotion does not make us weak; it makes us more powerful than ever. —Jordan Henson",
 		"Worry is a misuse of your imagination."
 	];
 
