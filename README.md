@@ -1,2 +1,2 @@
-# calhacks
-CalHacks 5.0 Project
+# iInspire
+Google Chrome extension originally created at CalHacks 5.0.
